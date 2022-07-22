@@ -1,12 +1,3 @@
-###const JuanPablo = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "games","music"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Bootstrap", "Sass"]
-        },
-        backEnd: ["C#",".Net", "PHP"],
-        databases: ["MySql", "SQLServer"],
-    }
-};
+![portfoliojuanpablogh netlify app](https://user-images.githubusercontent.com/80083351/180354981-4e4ebb3b-e066-4e5d-8735-d5a444e4c18a.png)
+
+
