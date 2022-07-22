@@ -1,4 +1,4 @@
-const JuanPablo = {
+###const JuanPablo = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "games","music"],
     technologies: {
