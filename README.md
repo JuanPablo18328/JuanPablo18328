@@ -1,11 +1,5 @@
 ![Carrera Espacial Encabezado para Google Classroom](https://user-images.githubusercontent.com/80083351/180912807-677cc650-c908-458c-b40e-96938f097eda.png)
 
-
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Juan Pablo</h1>
-<h4 align="center">Frontend Developer</h4>
-</div>
-
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
